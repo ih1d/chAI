@@ -1,2 +1,2 @@
-*.o
-libchai.a
+build/
+chai
